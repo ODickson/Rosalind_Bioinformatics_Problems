@@ -10,7 +10,7 @@
 9. Finding a Motif in DNA
 10. Consensus and Profile
 
-# Problems_11_to_20:
+# [Problems_11_to_20](/Bioinformatics_Stronghold/Problems_11_to_20):
 11. Mortal Fibonacci Rabbits
 12. Overlap Graphs
 13. Calculating Expected Offspring
@@ -21,3 +21,6 @@
 18. Open Reading Frames
 19. Enumerating Gene Orders
 20. Calculating Protein Mass
+
+# [Problems_21_to_30](/Bioinformatics_Stronghold/Problems_21_to_30):
+21. Locating Restriction Sites
